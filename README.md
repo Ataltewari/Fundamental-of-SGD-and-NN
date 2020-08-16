@@ -1,1 +1,1 @@
-# Fundametal-of-SGD-and-NN
+# Fundametals-of-SGD-and-NN
